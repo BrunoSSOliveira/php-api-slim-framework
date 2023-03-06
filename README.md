@@ -2,7 +2,7 @@
 
 PHP API - rotas simples para Hubspot
 
-API de teste em PHP utilizando o framework Slim Framework.
+API de teste em PHP utilizando Slim Framework.
 
 ## routes
 
